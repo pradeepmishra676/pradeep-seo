@@ -1,0 +1,3 @@
+# Hreflang / international SEO module
+Check from page_check `hreflang` and the user's page list: every alternate lists all versions including itself (self-reference); links are reciprocal (A points to B and B to A); valid codes (language, or language-REGION like en-IN); x-default present for the fallback page; hreflang URLs match canonical URLs and return 200; html lang matches the page language; no automatic IP redirects blocking crawlers; content truly localized (currency, units, phrasing), not only translated.
+Methods: HTML link tags, HTTP headers or sitemap annotations; use one consistently. For Hindi/Hinglish or regional sites, confirm which language-region pairs the user truly targets. Output a corrected hreflang block for the page set the user gave.

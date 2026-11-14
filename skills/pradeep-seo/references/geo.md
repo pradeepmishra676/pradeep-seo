@@ -1,0 +1,4 @@
+# GEO module (AI search: AI Overviews, ChatGPT, Perplexity)
+Goal: make the page easy for AI systems to cite. Nobody can guarantee citations, so frame advice as improving odds.
+Check: direct answer near the top of each section (1-3 sentences that stand alone); question-style headings matching real queries; clear facts with numbers, dates and named sources; author and organization identity; up-to-date "last updated" date; structured data matching visible content; crawlable by AI bots (check robots.txt for rules on GPTBot, ClaudeBot, PerplexityBot, Google-Extended and tell the user it is their business decision to allow or block); tables and lists for comparisons; original data or quotes others would cite; brand mentioned consistently across the web.
+Output: a checklist with pass/partial/fail, the 5 highest-impact edits, and sample rewritten answer paragraphs for 2 headings.

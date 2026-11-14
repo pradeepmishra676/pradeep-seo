@@ -1,0 +1,4 @@
+# Agentic-readiness module
+Question: can AI agents and browsers use this site? Check: semantic HTML and landmarks; real buttons, links and labeled form fields (not click-only divs); stable URLs for key actions; no critical content only inside images or canvas; accessible names on controls; predictable forms with autocomplete attributes; an llms.txt at /llms.txt (optional, helps some tools, no ranking guarantee); clear machine-readable data (schema, feeds, APIs); robots.txt and bot policy; pages work without heavy login walls or CAPTCHAs for public info.
+If the user mentions WebMCP or Lighthouse agentic checks, say you cannot verify those from HTML alone and ask for the tool's output.
+Provide: a score out of 10, findings with evidence, and a draft llms.txt (site summary plus links to key pages) built only from pages the user lists.
